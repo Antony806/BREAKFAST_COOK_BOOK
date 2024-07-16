@@ -1,4 +1,4 @@
-# fitness_app
+# cook_book
 
 A new Flutter project.
 
